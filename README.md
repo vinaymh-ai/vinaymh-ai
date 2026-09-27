@@ -1,161 +1,131 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/186791538?v=4" width="150" style="border-radius:50%" alt="Vinay M H" />
-
-# Hi 👋, I'm Vinay M H
-
-### AI Engineer | GenAI • Agentic AI • RAG • Voice AI
-
-Building production-grade AI systems, multilingual voice agents, intelligent retrieval pipelines, and agentic workflows.
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=vinaymh-ai&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<a href="https://vinaymh-ai.github.io/vinaymh.github.io/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/vinaymh-ai">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:vinay_mh@alumni.iitm.ac.in">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🤖 I build **Agentic AI & Multi-Agent Systems** with tool calling, orchestration, stateful workflows, and failure handling.
-- 🔎 I work on **production RAG systems** using hybrid retrieval, embeddings, vector databases, grounding, and evaluation.
-- 🎙️ I design **multilingual Voice AI agents** integrating telephony, STT/TTS, prompts, structured extraction, retries, and analytics.
-- 🧠 I work across **LLM engineering, NLP, embeddings, topic modelling, and AI backend systems**.
-- 🚀 I enjoy taking AI systems from **prototype → evaluation → API → deployment → monitoring**.
-- 📚 Currently deepening my expertise in **multi-agent architectures, RAG evaluation, tool-using agents, and production observability**.
-- 💼 Open to opportunities in **AI Engineering, GenAI Engineering, LLM Engineering, and Applied AI**.
-
----
-
-## ⚡ Production Highlights
-
-<div align="center">
-
-| 20L+ | 5 Languages | 100K+ | Production RAG |
-|:---:|:---:|:---:|:---:|
-| Voice AI calls | EN • HI • TA • MR • BN | NLP / social-text records | LangChain • LangGraph • pgvector |
-
-</div>
-
----
-
-## 🧰 Languages & Tools
-
-<div align="center">
-
-### AI / LLM Engineering
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi" />
+<img src="./assets/header.svg" width="100%" alt="Vinay M H — AI Engineer" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/RAG-005571?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://vinaymh-ai.github.io/vinaymh.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-vinaymh--ai-181717?style=for-the-badge&logo=github)](https://github.com/vinaymh-ai)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinay_mh@alumni.iitm.ac.in)
+![Profile Views](https://komarev.com/ghpvc/?username=vinaymh-ai&label=Profile+views&color=6366f1&style=for-the-badge)
 
-### Backend / Data / Infra
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,docker,aws,git,github" />
+</div>
 
-<br/>
+## 👋 About me
 
-<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Webhooks-2563EB?style=for-the-badge" />
+I'm an **AI Engineer** focused on building practical, production-grade AI systems across **agentic workflows, retrieval-augmented generation, multilingual voice AI, and NLP**.
 
-### Voice AI / NLP
-<img src="https://img.shields.io/badge/Sarvam%20AI-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Exotel-5B21B6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vobiz-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STT%20%2F%20TTS-F97316?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BERTopic-DB2777?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UMAP-059669?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HDBSCAN-0891B2?style=for-the-badge" />
+I work across the full lifecycle — **problem framing → prototyping → evaluation → APIs → orchestration → deployment → monitoring** — with a strong interest in systems that are reliable enough to operate outside a demo environment.
+
+<table>
+<tr>
+<td width="25%" align="center"><strong>20L+</strong><br/>Voice AI calls</td>
+<td width="25%" align="center"><strong>5</strong><br/>Languages deployed</td>
+<td width="25%" align="center"><strong>100K+</strong><br/>NLP records analyzed</td>
+<td width="25%" align="center"><strong>Production</strong><br/>RAG & agent workflows</td>
+</tr>
+</table>
+
+## 🧠 What I build
+
+| Area | What I work on |
+|---|---|
+| 🤖 **Agentic AI** | Tool calling, multi-agent orchestration, stateful workflows, retries, failure handling |
+| 🔎 **RAG** | Embeddings, hybrid retrieval, vector search, reranking, grounding, evaluation |
+| 🎙️ **Voice AI** | Multilingual agents, STT/TTS, telephony, prompt design, structured extraction |
+| 🧪 **LLM Engineering** | Evals, guardrails, prompt iteration, model integration, observability |
+| 📊 **NLP** | Topic modelling, clustering, sentiment, embeddings, large-scale text pipelines |
+| ⚙️ **AI Backend** | FastAPI, webhooks, async workflows, databases, Docker, cloud deployment |
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+**Core Engineering**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,postgres,mongodb,docker,aws,git,github&perline=10" alt="Core engineering stack" />
+
+<br/><br/>
+
+**LLM / GenAI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-0891B2?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=flat-square)
+
+**Voice / NLP**
+
+![Sarvam AI](https://img.shields.io/badge/Sarvam_AI-0F172A?style=flat-square)
+![Exotel](https://img.shields.io/badge/Exotel-5B21B6?style=flat-square)
+![Vobiz](https://img.shields.io/badge/Vobiz-0284C7?style=flat-square)
+![STT/TTS](https://img.shields.io/badge/STT_%2F_TTS-EA580C?style=flat-square)
+![BERTopic](https://img.shields.io/badge/BERTopic-DB2777?style=flat-square)
+![UMAP](https://img.shields.io/badge/UMAP-059669?style=flat-square)
+![HDBSCAN](https://img.shields.io/badge/HDBSCAN-0E7490?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+</div>
+
+## 🚀 Selected work
+
+### 🔎 [DocuQueryAI using Groq](https://github.com/vinaymh-ai/DocuQueryAI-usingGroq)
+A document intelligence / RAG project focused on fast question answering over user-provided content.
+
+**Shows:** RAG · Groq · LLM integration · document retrieval
+
+### 🧰 [AI Starter Kit](https://github.com/vinaymh-ai/ai-starter-kit)
+Reusable experiments and components for building and testing AI applications quickly.
+
+**Shows:** AI engineering · prototyping · reusable components · experimentation
+
+### 🎙️ Multilingual Voice AI Platform
+Designed production voice-agent workflows across **English, Hindi, Tamil, Marathi, and Bengali**, integrating telephony providers, retries, webhooks, structured outputs, and analytics.
+
+**Shows:** Voice AI · orchestration · STT/TTS · telephony · production scaling
+
+### 📊 Topic & Sentiment Intelligence
+Built large-scale NLP pipelines using **BERTopic, Sentence Transformers, UMAP, HDBSCAN, and LLM-assisted enrichment**.
+
+**Shows:** NLP · embeddings · clustering · topic modelling · scalable text analysis
+
+> More case studies and project details are available on my **[portfolio](https://vinaymh-ai.github.io/vinaymh.github.io/)**.
+
+## 🔬 Current focus
+
+- Multi-agent architecture & coordination
+- Tool calling and agent orchestration
+- RAG evaluation and retrieval quality
+- LLM observability and failure analysis
+- Guardrails, golden datasets, and production evals
+- Building stronger open-source AI projects
+
+## 📈 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vinaymh-ai&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Vinay's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaymh-ai&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
+
+</div>
+
+## 🤝 Let's connect
+
+I'm interested in **AI Engineer, GenAI Engineer, LLM Engineer, and Applied AI** opportunities where I can build and scale real AI products.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://vinaymh-ai.github.io/vinaymh.github.io/)
+[![Email](https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinay_mh@alumni.iitm.ac.in)
 
 </div>
 
 ---
 
-## 🚀 Featured Work
-
-### 🔎 DocuQueryAI using Groq
-**RAG-powered document question answering system** focused on fast inference and practical document intelligence.
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/vinaymh-ai/DocuQueryAI-usingGroq)
-
-### 🧠 AI Starter Kit
-Reusable components and experiments for **AI engineering, LLM applications, and rapid prototyping**.
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/vinaymh-ai/ai-starter-kit)
-
-### 🎙️ Multilingual Voice AI Systems
-Production voice-agent workflows spanning **English, Hindi, Tamil, Marathi, and Bengali**, including telephony orchestration, retries, webhooks, structured extraction, and analytics.
-
-### 📊 NLP Topic Intelligence
-Large-scale topic discovery and sentiment pipelines using **BERTopic, Sentence Transformers, UMAP, HDBSCAN, and LLM-assisted enrichment**.
-
----
-
-## 🎯 Currently Exploring
-
-- Multi-Agent System Design
-- Tool Calling & Agent Orchestration
-- RAG Evaluation & Retrieval Quality
-- LLM Observability & Failure Handling
-- AI Evals, Guardrails & Production Reliability
-- Open-source AI Engineering Projects
-
----
-
-## 📈 GitHub Stats
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vinaymh-ai&show_icons=true&hide_border=true&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaymh-ai&layout=compact&hide_border=true&theme=transparent" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=vinaymh-ai&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://vinaymh-ai.github.io/vinaymh.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:vinay_mh@alumni.iitm.ac.in">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/vinaymh-ai">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Building AI systems that move beyond demos and work reliably in production.
-
+<sub>AI systems • Agentic workflows • RAG • Voice AI • LLM engineering</sub>
 </div>
